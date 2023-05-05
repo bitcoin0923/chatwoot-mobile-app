@@ -1,0 +1,197 @@
+{
+  "WELCOME": "Tervetuloa",
+  "COMMON": {
+    "ERROR": "Virhe",
+    "ERROR_TITLE": "Odottamaton virhe tapahtui",
+    "REPORT_MESSAGE": "Olemme ilmoittaneet tästä tiimillemme! Ole hyvä ja sulje sovellus ja aloita uudelleen!",
+    "CLOSE": "Sulje"
+  },
+  "FOOTER": {
+    "HOME": "Etusivu",
+    "CONVERSATION": "Keskustelut",
+    "NOTIFICATION": "Ilmoitukset",
+    "SETTINGS": "Asetukset"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "Asennuksen URL",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "URL_ERROR": "Anna kelvollinen URL-osoite",
+    "URL_REQUIRED": "URL is required",
+    "CONNECT": "Yhdistä",
+    "CHANGE_LANGUAGE": "Vaihda kieli",
+    "ERROR": "Virheellinen asennusosoite"
+  },
+  "LOGIN": {
+    "TITLE": "Login to your account",
+    "DESCRIPTION": "You are connected to {{baseUrl}}. Login with your email address and password.",
+    "EMAIL": "Sähköposti",
+    "PASSWORD": "Salasana",
+    "EMAIL_REQUIRED": "Email is required",
+    "EMAIL_ERROR": "Syötä kelvollinen sähköpostiosoite",
+    "PASSWORD_REQUIRED": "Password is required",
+    "PASSWORD_ERROR": "Anna kelvollinen salasana",
+    "LOGIN": "Kirjaudu sisään",
+    "FORGOT_PASSWORD": "Salasana unohtunut?",
+    "RESET_HERE": "Palauta täällä",
+    "NO_ACCOUNT": "Eikö sinulla ole tiliä?",
+    "CREATE_ACCOUNT": "Luo uusi tili",
+    "SETTINGS": "Asetukset",
+    "CHANGE_LANGUAGE": "Vaihda kieli",
+    "TERMS": "Käyttöehdot ja säännöt",
+    "CHANGE_URL": "Vaihda URL-osoite"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Ole hyvä ja syötä sähköpostiosoitteesi",
+    "EMAIL_ERROR": "Syötä kelvollinen sähköpostiosoite",
+    "RESET_HERE": "Nollaa salasana",
+    "HEADER_TITLE": "Nollaa salasana",
+    "TITLE": "Salasana unohtunut?",
+    "SUB_TITLE": "Älä huoli! Takaamme selustasi.",
+    "API_SUCCESS": "Password reset link has been sent to your email address"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Keskustelut",
+    "UPDATING": "Updating...",
+    "MINE": "Minun",
+    "UN_ASSIGNED": "Osoittamaton",
+    "ALL": "Kaikki",
+    "EMPTY": "Tässä ryhmässä ei ole aktiivisia keskusteluja.",
+    "PICTURE_CONTENT": "Kuvaviesti",
+    "ATTACHMENT_CONTENT": "Liitetiedosto",
+    "DOWNLOAD": "Lataa",
+    "TODAY": "Tänään",
+    "YESTERDAY": "Eilen",
+    "TYPE_MESSAGE": "Kirjoita viesti",
+    "TYPING": "kirjoittaa",
+    "ALL_CONVERSATION_LOADED": "Kaikki keskustelut ladattu",
+    "ASSIGN": "Assign conversation",
+    "FILE_SIZE_LIMIT": "File exceeds the 5MB attachment limit",
+    "SHARE": "Share",
+    "DETAILS": "Details",
+    "LABELS": "Tunnisteet",
+    "PRIVATE_MSG_INPUT": "This will be visible only to Agents",
+    "SELF_ASSIGN": "Self assign conversation",
+    "UN_ASSIGN": "Unassign conversation",
+    "CONVERSATION_NOT_FOUND": "Could not fetch conversation",
+    "MARK_AS_PENDING": "Mark as pending",
+    "SNOOZE_UNTIL": "Snooze until",
+    "SNOOZE_UNTIL_NEXT_REPLY": "Until next reply",
+    "SNOOZE_UNTIL_TOMORROW": "Until tomorrow",
+    "SNOOZE_UNTIL_NEXT_WEEK": "Until next week",
+    "SNOOZE": "Snooze Conversation",
+    "MESSAGES": "Messages"
+  },
+  "FILTER": {
+    "ALL_INBOXES": "All inboxes",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filter by assignee type",
+    "FILTER_BY_CONVERSATION_STATUS": "Filter by conversation status",
+    "FILTER_BY_INBOX": "Filter by inbox",
+    "HEADER_TITLE": "Keskustelusuodatin",
+    "CHOOSE_INBOX": "Valitse saapuneet",
+    "CHOOSE_STATUS": "Keskustelun Tila",
+    "OPEN": "Avaa",
+    "RESOLVED": "Ratkaistu",
+    "BOT": "Botti",
+    "SUBMIT": "Lähetä",
+    "PENDING": "Pending",
+    "SNOOZED": "Snoozed"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Asetukset",
+    "SET_AVAILABILITY": "Set yourself as",
+    "PREFERENCES": "Preferences",
+    "ABOUT": "About",
+    "SUPPORT": "Support",
+    "SWITCH_ACCOUNT": "Vaihda tiliä",
+    "CHANGE_LANGUAGE": "Vaihda kieli",
+    "LOGOUT": "Kirjaudu ulos",
+    "SUBMIT": "Lähetä"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Ilmoitukset",
+    "EMPTY": "Ei ilmoituksia vielä.",
+    "EMPTY_MORE_TEXT": "Kun alat vastaanottaa ilmoituksia, ne ilmestyvät tänne.",
+    "ALL_NOTIFICATION_LOADED": "Kaikki ilmoitukset ladattu",
+    "MARK_ALL": "Merkitse kaikki luetuiksi",
+    "CANCEL": "Peruuta"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "Paikalla",
+    "BUSY": "Varattu",
+    "OFFLINE": "Offline"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Ilmoitusasetukset",
+    "EMAIL": "Sähköposti",
+    "PUSH": "Push",
+    "CONVERSATION_CREATE_PUSH": "Lähetä push-ilmoitukset kun uusi keskustelu on luotu",
+    "CONVERSATION_ASSIGNEE_PUSH": "Lähetä push-ilmoitus, kun keskustelu on määritetty minulle",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Lähetä push-ilmoitus, kun uusi viesti on luotu määritettyyn keskusteluun",
+    "CONVERSATION_MENTION": "Send push notifications when you are mentioned in a conversation",
+    "CONVERSATION_CREATE_EMAIL": "Lähetä sähköposti-ilmoitus, kun uusi keskustelu luodaan",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Lähetä sähköposti-ilmoitus, kun keskustelu on määritetty minulle",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Lähetä sähköposti-ilmoitus, kun uusi viesti on luotu määritetyssä keskustelussa"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Conversation Information",
+    "BROWSER": "Selain",
+    "OPERATING_SYSTEM": "Käyttöjärjestelmä",
+    "INITIATED_AT": "Aloitettu klo",
+    "INITIATED_FROM": "Aloitettu osoitteesta",
+    "IP_ADDRESS": "IP-osoite"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Contact Attributes"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Toiminnot"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Keskustelutunnisteet",
+    "ADD_LABEL": "Add Labels",
+    "EMPTY_LIST": "Please add labels to your account",
+    "NO_LABEL": "No labels assigned",
+    "UPDATE_LABEL": "Tunniste päivitetty onnistuneesti"
+  },
+  "AGENT": {
+    "TITLE": "Valitse edustaja"
+  },
+  "TEAMS": {
+    "TITLE": "Select Team",
+    "EMPTY": "Please add teams to your account to assign conversations to teams.",
+    "CHANGE_TEAMS": "Conversation team changed"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Ei voitu yhdistää Woot-palvelimeen, yritä myöhemmin uudelleen",
+    "OfFLINE": "Sinun on yhdistettävä Wi-Fi- tai matkapuhelinverkkoon, jotta voit olla taas paikalla",
+    "CANNOT_FETCH": "Tietojen haussa tapahtui virhe. Ole hyvä ja yritä uudelleen",
+    "AUTH": "Käyttäjätunnus / salasana virheellinen. Yritä uudelleen",
+    "NO_ACCOUNTS_MESSAGE": "Sinulla ei ole pääsyä mihinkään Chatwoot-tiliin"
+  },
+  "SUCCESS": {
+    "AUTH": "Kirjautuminen onnistui"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Server upgrade required",
+    "WARNING_FOR_AGENT": "It seems like you are using unsupported Chatwoot server for your mobile app. Please contact your admin to upgrade your Chatwoot server.",
+    "WARNING_FOR_ADMIN": "It seems like you are using unsupported Chatwoot server for your mobile app. Upgrading to server version %{minimumVersion} or later is required."
+  },
+  "EXIT": {
+    "TITLE": "Poistu",
+    "SUBTITLE": "Oletko varma, että haluat poistua?",
+    "CANCEL": "Peruuta",
+    "OK": "OK"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "You can only reply to this conversation using a template message due to ",
+      "HREF_TEXT": "24h vastausikkuna",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "You cannot reply due to ",
+      "HREF_TEXT": "24h vastausikkuna",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}

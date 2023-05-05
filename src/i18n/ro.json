@@ -1,0 +1,197 @@
+{
+  "WELCOME": "Bine ați venit",
+  "COMMON": {
+    "ERROR": "Eroare",
+    "ERROR_TITLE": "Eroare neașteptată",
+    "REPORT_MESSAGE": "Am raportat acest lucru echipei noastre! Vă rugăm să închideți aplicația și să începeți din nou!",
+    "CLOSE": "Închide"
+  },
+  "FOOTER": {
+    "HOME": "Acasă",
+    "CONVERSATION": "Conversații",
+    "NOTIFICATION": "Notificări",
+    "SETTINGS": "Setări"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "Instalare URL",
+    "DESCRIPTION": "Dacă folosiți o instalare de Chatwoot auto-găzduită, introduceți URL-ul serverului. Altfel, folosiți app.chatwoot.com.",
+    "URL_ERROR": "Introduceți o adresă URL validă",
+    "URL_REQUIRED": "URL-ul este necesar",
+    "CONNECT": "Conectează-te",
+    "CHANGE_LANGUAGE": "Modificare limbă",
+    "ERROR": "URL instalare nevalid"
+  },
+  "LOGIN": {
+    "TITLE": "Conectează-te la contul tău",
+    "DESCRIPTION": "Ești conectat la {{baseUrl}}. Autentifică-te cu adresa ta de e-mail și parola.",
+    "EMAIL": "Email",
+    "PASSWORD": "Parola",
+    "EMAIL_REQUIRED": "E-mailul este necesar",
+    "EMAIL_ERROR": "Introduceți un e-mail valid",
+    "PASSWORD_REQUIRED": "Parola este necesară",
+    "PASSWORD_ERROR": "Introduceți o parolă validă",
+    "LOGIN": "Autentificare",
+    "FORGOT_PASSWORD": "Ai uitat parola?",
+    "RESET_HERE": "Resetați aici",
+    "NO_ACCOUNT": "Nu aveți un cont?",
+    "CREATE_ACCOUNT": "Creează un cont nou",
+    "SETTINGS": "Setări",
+    "CHANGE_LANGUAGE": "Modificare limbă",
+    "TERMS": "Termeni și Condiții",
+    "CHANGE_URL": "Modificarea adresei URL"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Te rugăm să introduci adresa de e-mail",
+    "EMAIL_ERROR": "Introduceți un e-mail valid",
+    "RESET_HERE": "Resetare parolă",
+    "HEADER_TITLE": "Resetare parolă",
+    "TITLE": "Parolă uitată?",
+    "SUB_TITLE": "Nu-ți face griji! Iți avem grija",
+    "API_SUCCESS": "Linkul de resetare a parolei a fost trimis la adresa de e-mail"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Conversații",
+    "UPDATING": "Updating...",
+    "MINE": "Ale mele",
+    "UN_ASSIGNED": "Neatribuit",
+    "ALL": "Toate",
+    "EMPTY": "Nu sunt conversații active în acest grup.",
+    "PICTURE_CONTENT": "Mesaj imagine",
+    "ATTACHMENT_CONTENT": "Fişier ataşat",
+    "DOWNLOAD": "Descărcare",
+    "TODAY": "Astăzi",
+    "YESTERDAY": "Ieri",
+    "TYPE_MESSAGE": "Tastați mesajul aici",
+    "TYPING": "tastează",
+    "ALL_CONVERSATION_LOADED": "Toate conversațiile încărcate",
+    "ASSIGN": "Atribuirea conversației",
+    "FILE_SIZE_LIMIT": "Fișierul depășește limita de atașare de 5MB",
+    "SHARE": "Share",
+    "DETAILS": "Details",
+    "LABELS": "Etichete",
+    "PRIVATE_MSG_INPUT": "Acest lucru va fi vizibil numai agenților",
+    "SELF_ASSIGN": "Self assign conversation",
+    "UN_ASSIGN": "Anularea atribuirii conversației",
+    "CONVERSATION_NOT_FOUND": "Could not fetch conversation",
+    "MARK_AS_PENDING": "Marchează ca în așteptare",
+    "SNOOZE_UNTIL": "Amânare până la",
+    "SNOOZE_UNTIL_NEXT_REPLY": "Până la următorul răspuns",
+    "SNOOZE_UNTIL_TOMORROW": "Până mâine",
+    "SNOOZE_UNTIL_NEXT_WEEK": "Până săptămâna viitoare",
+    "SNOOZE": "Snooze conversație",
+    "MESSAGES": "Mesaje"
+  },
+  "FILTER": {
+    "ALL_INBOXES": "All inboxes",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filter by assignee type",
+    "FILTER_BY_CONVERSATION_STATUS": "Filter by conversation status",
+    "FILTER_BY_INBOX": "Filter by inbox",
+    "HEADER_TITLE": "Filtru conversație",
+    "CHOOSE_INBOX": "Alege Inboxul",
+    "CHOOSE_STATUS": "Starea conversației",
+    "OPEN": "Deschide",
+    "RESOLVED": "Rezolvat",
+    "BOT": "Bot",
+    "SUBMIT": "Trimite",
+    "PENDING": "În aşteptare",
+    "SNOOZED": "Amânat"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Setări",
+    "SET_AVAILABILITY": "Setați-vă ca",
+    "PREFERENCES": "Preferences",
+    "ABOUT": "About",
+    "SUPPORT": "Support",
+    "SWITCH_ACCOUNT": "Comută contul",
+    "CHANGE_LANGUAGE": "Schimbarea limbii",
+    "LOGOUT": "Deconectare",
+    "SUBMIT": "Trimite"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Notificări",
+    "EMPTY": "Nu există notificări încă.",
+    "EMPTY_MORE_TEXT": "După ce începeți să primiți notificări, acestea vor apărea aici.",
+    "ALL_NOTIFICATION_LOADED": "Toate notificările încărcate",
+    "MARK_ALL": "Marcare totală ca citit",
+    "CANCEL": "Renunță"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "Online",
+    "BUSY": "Ocupat",
+    "OFFLINE": "Deconectat"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Preferințe de notificare",
+    "EMAIL": "Email",
+    "PUSH": "Push",
+    "CONVERSATION_CREATE_PUSH": "Trimite notificări push atunci când o conversație nouă este creată",
+    "CONVERSATION_ASSIGNEE_PUSH": "Trimite notificări push atunci când o conversație îmi este atribuită",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Trimiterea notificărilor push atunci când se creează un mesaj nou într-o conversație atribuită",
+    "CONVERSATION_MENTION": "Trimiterea notificărilor push atunci când sunteți menționat într-o conversație",
+    "CONVERSATION_CREATE_EMAIL": "Trimite notificări prin e-mail atunci când o conversație nouă este creată",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Trimite notificări prin e-mail atunci când o conversație îmi este atribuită",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Trimiterea notificărilor prin e-mail atunci când se creează un mesaj nou într-o conversație atribuită"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Informații despre conversație",
+    "BROWSER": "Navigator",
+    "OPERATING_SYSTEM": "Sistem de operare",
+    "INITIATED_AT": "Iniţiat la",
+    "INITIATED_FROM": "Inițiat de la",
+    "IP_ADDRESS": "Adresă IP"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Atribute Contacte"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Acțiuni"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Etichete conversație",
+    "ADD_LABEL": "Adaugă etichete",
+    "EMPTY_LIST": "Please add labels to your account",
+    "NO_LABEL": "No labels assigned",
+    "UPDATE_LABEL": "Etichetă actualizată cu succes"
+  },
+  "AGENT": {
+    "TITLE": "Selectează agent"
+  },
+  "TEAMS": {
+    "TITLE": "Selectați echipa",
+    "EMPTY": "Please add teams to your account to assign conversations to teams.",
+    "CHANGE_TEAMS": "Echipa de conversație schimbată"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Nu s-a putut conecta la Woot Server, încercați din nou mai târziu",
+    "OfFLINE": "Trebuie să vă conectați la Wi-Fi sau la o rețea celulară pentru a intra din nou online",
+    "CANNOT_FETCH": "A existat o eroare la preluarea informațiilor, vă rugăm să încercați din nou",
+    "AUTH": "Nume utilizator / parolă incorectă. Vă rugăm să încercaţi din nou",
+    "NO_ACCOUNTS_MESSAGE": "Nu aveți acces la niciun cont de chatwoot"
+  },
+  "SUCCESS": {
+    "AUTH": "Autentificare reușită"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Este necesar upgrade-ul serverului",
+    "WARNING_FOR_AGENT": "Se pare că utilizați serverul Chatwoot neacceptat pentru aplicația mobilă. Vă rugăm să contactați administratorul pentru a vă actualiza serverul Chatwoot.",
+    "WARNING_FOR_ADMIN": "Se pare că utilizați serverul Chatwoot neacceptat pentru aplicația mobilă. Este necesar upgrade-ul la versiunea de server %{minimumVersion} sau o versiune ulterioară."
+  },
+  "EXIT": {
+    "TITLE": "Ieșire",
+    "SUBTITLE": "Ești sigur că vrei să renunți?",
+    "CANCEL": "Renunță",
+    "OK": "Da"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "You can only reply to this conversation using a template message due to ",
+      "HREF_TEXT": "Restricţie fereastră mesaj 24 de ore",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "You cannot reply due to ",
+      "HREF_TEXT": "Restricţie fereastră mesaj 24 de ore",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}

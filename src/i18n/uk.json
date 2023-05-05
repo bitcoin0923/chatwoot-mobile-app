@@ -1,0 +1,197 @@
+{
+  "WELCOME": "Вітаємо",
+  "COMMON": {
+    "ERROR": "Error",
+    "ERROR_TITLE": "Unexpected error occurred",
+    "REPORT_MESSAGE": "We have reported this to our team ! Please close the app and start again!",
+    "CLOSE": "Закрити"
+  },
+  "FOOTER": {
+    "HOME": "Головна",
+    "CONVERSATION": "Бесіди",
+    "NOTIFICATION": "Notifications",
+    "SETTINGS": "Налаштування"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "Installation URL",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "URL_ERROR": "Enter a valid URL",
+    "URL_REQUIRED": "URL is required",
+    "CONNECT": "Connect",
+    "CHANGE_LANGUAGE": "Change language",
+    "ERROR": "Invalid installation url"
+  },
+  "LOGIN": {
+    "TITLE": "Login to your account",
+    "DESCRIPTION": "You are connected to {{baseUrl}}. Login with your email address and password.",
+    "EMAIL": "Email",
+    "PASSWORD": "Пароль",
+    "EMAIL_REQUIRED": "Email is required",
+    "EMAIL_ERROR": "Enter a valid email",
+    "PASSWORD_REQUIRED": "Password is required",
+    "PASSWORD_ERROR": "Enter a valid password",
+    "LOGIN": "Sign In",
+    "FORGOT_PASSWORD": "Забули пароль?",
+    "RESET_HERE": "Reset here",
+    "NO_ACCOUNT": "Don't have an account?",
+    "CREATE_ACCOUNT": "Створити новий обліковий запис",
+    "SETTINGS": "Налаштування",
+    "CHANGE_LANGUAGE": "Change language",
+    "TERMS": "Terms & Conditions",
+    "CHANGE_URL": "Change URL"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Введіть адресу електронної пошти",
+    "EMAIL_ERROR": "Enter a valid email",
+    "RESET_HERE": "Reset password",
+    "HEADER_TITLE": "Reset password",
+    "TITLE": "Forgot Password?",
+    "SUB_TITLE": "Don't worry! We got your back",
+    "API_SUCCESS": "Password reset link has been sent to your email address"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Бесіди",
+    "UPDATING": "Updating...",
+    "MINE": "Мої",
+    "UN_ASSIGNED": "Непризначені",
+    "ALL": "Всі",
+    "EMPTY": "There are no active conversations in this group.",
+    "PICTURE_CONTENT": "Повідомлення з картинкою",
+    "ATTACHMENT_CONTENT": "Повідомлення з файлом",
+    "DOWNLOAD": "Звантажити",
+    "TODAY": "Today",
+    "YESTERDAY": "Yesterday",
+    "TYPE_MESSAGE": "Type message",
+    "TYPING": "typing",
+    "ALL_CONVERSATION_LOADED": "All conversations loaded",
+    "ASSIGN": "Assign conversation",
+    "FILE_SIZE_LIMIT": "File exceeds the 5MB attachment limit",
+    "SHARE": "Share",
+    "DETAILS": "Details",
+    "LABELS": "Мітки",
+    "PRIVATE_MSG_INPUT": "This will be visible only to Agents",
+    "SELF_ASSIGN": "Self assign conversation",
+    "UN_ASSIGN": "Unassign conversation",
+    "CONVERSATION_NOT_FOUND": "Could not fetch conversation",
+    "MARK_AS_PENDING": "Позначити як \"В очікуванні\"",
+    "SNOOZE_UNTIL": "Відкласти до",
+    "SNOOZE_UNTIL_NEXT_REPLY": "До наступної відповіді",
+    "SNOOZE_UNTIL_TOMORROW": "До завтра",
+    "SNOOZE_UNTIL_NEXT_WEEK": "До наступного тижня",
+    "SNOOZE": "Відкласти розмову",
+    "MESSAGES": "Текст повідомлень"
+  },
+  "FILTER": {
+    "ALL_INBOXES": "All inboxes",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filter by assignee type",
+    "FILTER_BY_CONVERSATION_STATUS": "Filter by conversation status",
+    "FILTER_BY_INBOX": "Filter by inbox",
+    "HEADER_TITLE": "Conversation Filter",
+    "CHOOSE_INBOX": "Choose Inbox",
+    "CHOOSE_STATUS": "Conversation Status",
+    "OPEN": "Відкриті",
+    "RESOLVED": "Вирішений",
+    "BOT": "Bot",
+    "SUBMIT": "Додати",
+    "PENDING": "Pending",
+    "SNOOZED": "Snoozed"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Налаштування",
+    "SET_AVAILABILITY": "Позначити себе як",
+    "PREFERENCES": "Preferences",
+    "ABOUT": "About",
+    "SUPPORT": "Support",
+    "SWITCH_ACCOUNT": "Switch Account",
+    "CHANGE_LANGUAGE": "Change Language",
+    "LOGOUT": "Вийти",
+    "SUBMIT": "Додати"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Notifications",
+    "EMPTY": "No notifications yet.",
+    "EMPTY_MORE_TEXT": "Once you start receiving notifications, they'll appear here.",
+    "ALL_NOTIFICATION_LOADED": "All notifications loaded",
+    "MARK_ALL": "Mark all as read",
+    "CANCEL": "Скасувати"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "Online",
+    "BUSY": "Busy",
+    "OFFLINE": "Offline"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Notification Preferences",
+    "EMAIL": "Email",
+    "PUSH": "Push",
+    "CONVERSATION_CREATE_PUSH": "Send push notifications when a new conversation is created",
+    "CONVERSATION_ASSIGNEE_PUSH": "Send push notifications when a conversation is assigned to me",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Send push notifications when a new message is created in an assigned conversation",
+    "CONVERSATION_MENTION": "Send push notifications when you are mentioned in a conversation",
+    "CONVERSATION_CREATE_EMAIL": "Надсилати сповіщення при створенні нової бесіди",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Надсилати сповіщення коли бесіду призначають мені",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Send email notifications when a new message is created in an assigned conversation"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Інформація про бесіду",
+    "BROWSER": "Браузер",
+    "OPERATING_SYSTEM": "Операційна система",
+    "INITIATED_AT": "Час початку",
+    "INITIATED_FROM": "Initiated from",
+    "IP_ADDRESS": "IP-адреса"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Атрибути контакту"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Дії"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Мітки бесіди",
+    "ADD_LABEL": "Додати мітки",
+    "EMPTY_LIST": "Please add labels to your account",
+    "NO_LABEL": "No labels assigned",
+    "UPDATE_LABEL": "Мітку успішно оновлено"
+  },
+  "AGENT": {
+    "TITLE": "Select Agent"
+  },
+  "TEAMS": {
+    "TITLE": "Оберіть команду",
+    "EMPTY": "Please add teams to your account to assign conversations to teams.",
+    "CHANGE_TEAMS": "Команда змінена"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Не вдалося підключитися до Woot Server, спробуйте ще раз пізніше",
+    "OfFLINE": "You must connect to Wi-fi or a cellular network to get online again",
+    "CANNOT_FETCH": "There was an error fetching the information, please try again",
+    "AUTH": "Неправильне ім'я користувача / пароль. Будь ласка, спробуйте ще раз",
+    "NO_ACCOUNTS_MESSAGE": "You don't have access to any chatwoot accounts"
+  },
+  "SUCCESS": {
+    "AUTH": "Login Successful"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Server upgrade required",
+    "WARNING_FOR_AGENT": "It seems like you are using unsupported Chatwoot server for your mobile app. Please contact your admin to upgrade your Chatwoot server.",
+    "WARNING_FOR_ADMIN": "It seems like you are using unsupported Chatwoot server for your mobile app. Upgrading to server version %{minimumVersion} or later is required."
+  },
+  "EXIT": {
+    "TITLE": "Exit",
+    "SUBTITLE": "Are you sure you want to quit?",
+    "CANCEL": "Скасувати",
+    "OK": "Ok"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "You can only reply to this conversation using a template message due to ",
+      "HREF_TEXT": "24-годинне обмеження на повідомлення",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "You cannot reply due to ",
+      "HREF_TEXT": "24-годинне обмеження на повідомлення",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}
